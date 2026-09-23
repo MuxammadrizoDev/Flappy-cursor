@@ -4,7 +4,7 @@ A hyper-lightweight, zero-dependency desktop overlay game built in C#. Play a fu
 
 🎮 Play it now on Itch.io
 
-(Drop your GIF right below this line!)
+<img width="1917" height="1070" alt="Screenshot 2026-09-23 233745" src="https://github.com/user-attachments/assets/af723b13-a33d-4773-8adc-faff055791d7" />
 
 
 ✨ Features
